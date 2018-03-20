@@ -1,3 +1,3 @@
 # blognew
 
-new updatessss
+new update
